@@ -1,0 +1,8 @@
+# LeakTracer report diff_utc_mono=1595473540.465382
+leak, time=86349.501174, stack=0x47b30 0x4dd58 0x4e098 0x445b4 0x7bdd4354, size=64, data=Java_com_example_nativemallocdebug_MainActivity_st
+leak, time=86349.501988, stack=0x47b30 0x4dd58 0x4e098 0x445b4 0x7bdd4354, size=64, data=.ndroidx/constraintlayout/widget/ConstraintLayout.
+leak, time=86349.501800, stack=0x47b30 0x4dd58 0x4e098 0x445b4 0x7bdd4354, size=64, data=Landroidx/constraintlayout/widget/ConstraintLayout
+leak, time=86349.502174, stack=0x47b30 0x4dd58 0x4e098 0x445b4 0x7bdd4354, size=64, data=...=u...".d.B.h.m.s.e.s.`H..t...m.a.t./.a.b.b.r.e.
+leak, time=86349.502359, stack=0x47b30 0x4dd58 0x4e098 0x445b4 0x7bdd4354, size=64, data=...=u...".h.M.E.d.t.1.a.m.e.s./.f.o.r.m.a.t./.w.i.
+leak, time=86349.502541, stack=0x47b30 0x4dd58 0x4e098 0x44508 0x445ec, size=64, data=...=u...B.h.m.M.M.... ..nO..t........ ...,... ....
+leak, time=86349.502753, stack=0x47b30 0x4dd58 0x4de08 0x44514 0x445ec, size=20, data=....................
